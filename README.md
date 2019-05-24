@@ -8,7 +8,7 @@
 
   ```  php index.php```
 
-  ```  php app:create-user ```
+  ```  php index.php app:create-user ```
 
 
 ### Input Format
